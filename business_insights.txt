@@ -1,0 +1,61 @@
+READ ME :-
+# Retail Sales & Profit Analysis — Key Business Insights
+
+### 1. Overall Business Performance
+- Total Sales: 386.82 Million
+- Total Profit: 51.42 Million
+- Total Orders: 4,000
+- Total Customers: 672
+- Overall Profit Margin: 13.29%
+
+**Insight:** The business generated 51.42 million in profit with an overall profit margin of 13.29%.
+
+### 2. Yearly Business Growth
+- Sales increased from 74.47 million in 2021 to 120.94 million in 2024.
+- Profit increased from 8.47 million in 2021 to 17.19 million in 2024.
+- Profit margin improved from 11.37% to 14.22%.
+
+**Insight:** Both sales and profit showed consistent yearly growth between 2021 and 2024.
+
+### 3. Category Performance
+- Technology generated the highest sales and profit.
+- Technology profit margin: 19.32%.
+- Office Supplies profit margin: 16.37%.
+- Furniture profit margin: Only 0.96%.
+
+**Insight:** Technology is the strongest-performing category, while Furniture needs profitability improvement.
+
+### 4. Regional Performance
+- Nairobi generated the highest profit: 21.17 million.
+- Rift Valley generated 14.95 million profit.
+- Coast recorded a loss of 1.35 million.
+- Coast had the highest loss-row percentage at 43.92%.
+
+**Insight:** Coast is the weakest-performing region and requires further investigation.
+
+### 5. Impact of Discounts
+- Products with no discount had the highest average profit.
+- Higher discount levels were associated with lower average profit.
+- Discounts of 30% and above showed negative average profit in the overall analysis.
+
+**Insight:** High discounts are associated with reduced profitability. Discount strategies should be reviewed carefully.
+
+### 6. Product Performance
+- Phones generated the highest sub-category sales: 114.37 million.
+- Phones also generated the highest sub-category profit: 18.80 million.
+- Tables and Bookcases recorded overall losses.
+
+**Insight:** Phones and Copiers are strong profit contributors, while Tables and Bookcases need attention.
+
+### 7. Shipping Performance
+- Standard Class had the highest average shipping time: 5.51 days.
+- Same Day had an average shipping time of 0 days.
+- 51.20% of Standard Class rows took more than 5 days to ship.
+
+**Insight:** Standard Class has the longest shipping interval and should be monitored for operational efficiency.
+
+---
+
+## Overall Recommendation
+
+The business should focus on improving Furniture profitability, investigating losses in the Coast region, reviewing high-discount strategies, and maintaining growth in strong categories such as Technology.
